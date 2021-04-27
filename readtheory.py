@@ -53,7 +53,3 @@ while x == 1:
 		driver.refresh()
  
 #https://medium.com/@stevennatera/web-scraping-with-selenium-and-chrome-canary-on-macos-fc2eff723f9e
-
-
-
-
